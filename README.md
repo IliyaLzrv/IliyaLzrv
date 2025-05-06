@@ -29,8 +29,7 @@ Flutter, Dart, mobile app analytics & performance optimization
 - 📱 **Posture Monitoring App**  
   Flutter app that tracks posture using the phone gyroscope, sends notifications, and provides daily health summaries
 
-- 📊 **Fitness Tracker App**  
-  Tracks steps and cycling distance, includes streaks, gamification, and weekly insights
+
 
 ---
 
