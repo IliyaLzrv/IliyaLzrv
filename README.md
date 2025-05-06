@@ -1,16 +1,52 @@
-## Hi there 👋
+## Hi 👋 my name is Ilia Lazarov
 
-<!--
-**IliyaLzrv/IliyaLzrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student @ Fontys University of Applied Sciences  
+💡 Passionate about full-stack development, mobile apps, and gaming projects  
+🎮 Creator of **Robot.io** – a multiplayer robot battle game  
+📱 Building a **Posture Monitoring App** with Flutter and phone sensors
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+Java, JavaScript, TypeScript, React, Spring Boot, Flutter, C#, .NET
+
+**Tools & Platforms:**  
+GitHub, GitLab CI/CD, Docker, SonarQube, MSSQL, Firebase, Figma
+
+**Currently Learning:**  
+Flutter, Dart, mobile app analytics & performance optimization
+
+---
+
+## 🚀 Projects
+
+- 🔧 [**Robot.io**](https://github.com/YOUR_USERNAME/robot.io)  
+  Multiplayer game with real-time WebSocket communication, robot upgrades, and leaderboards
+
+- 📱 **Posture Monitoring App**  
+  Flutter app that tracks posture using the phone gyroscope, sends notifications, and provides daily health summaries
+
+- 📊 **Fitness Tracker App**  
+  Tracks steps and cycling distance, includes streaks, gamification, and weekly insights
+
+---
+
+## 🧠 Fun Facts
+
+- 🏀 I play and coach basketball — always balancing code with cardio
+- 🍽️ I meal prep to support my gym and bulking goals
+- 🎯 My goal is to build impactful, user-friendly apps and turn side projects into real businesses
+
+---
+
+## 📫 Get in Touch
+
+- Email: **iliya.lazarov03@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/ilia-lazarov-594409159/
+- Portfolio: *(coming soon)*
+
+---
+
+_Thanks for stopping by! Feel free to check out my pinned repos below._ 👇
