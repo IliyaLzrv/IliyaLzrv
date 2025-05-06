@@ -23,7 +23,7 @@ Flutter, Dart, mobile app analytics & performance optimization
 
 ## 🚀 Projects
 
-- 🔧 [**Robot.io**](https://github.com/YOUR_USERNAME/robot.io)  
+- 🔧 [**Robot.io**](https://github.com/IliyaLzrv/Robot.io)  
   Multiplayer game with real-time WebSocket communication, robot upgrades, and leaderboards
 
 - 📱 **Posture Monitoring App**  
