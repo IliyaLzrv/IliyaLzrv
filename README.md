@@ -45,7 +45,7 @@ Flutter, Dart, mobile app analytics & performance optimization
 
 - Email: **iliya.lazarov03@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/ilia-lazarov-594409159/
-- Portfolio: * https://iliyalzrv.github.io/portfolio/*
+- Portfolio:  https://iliyalzrv.github.io/portfolio/
 
 ---
 
