@@ -2,7 +2,7 @@
 
 🎓 Software Engineering student @ Fontys University of Applied Sciences  
 💡 Passionate about full-stack development, mobile apps, and gaming projects  
-🎮 Creator of **Robot.io** – a multiplayer robot battle game  / not published game! This game was a project at University 
+🎮 Creator of **Robot.io** – a robot battle game  / not published game! This game was a project at University 
 
 📱 Building a **Posture Monitoring App** with Flutter and phone sensors
 
